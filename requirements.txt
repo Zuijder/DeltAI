@@ -1,0 +1,17 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+readability-lxml==0.8.1
+pdfminer.six==20231228
+python-docx==1.1.2
+tqdm==4.66.4
+html5lib==1.1
+
+# Semantische zoeklaag (situatie -> beste antwoorden)
+sentence-transformers==2.2.2
+scikit-learn==1.5.2
+numpy==1.26.4
+faiss-cpu==1.7.4
+
+# Kleine UI
+streamlit==1.38.0
